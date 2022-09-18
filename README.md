@@ -30,3 +30,5 @@ Users should be able to:
 Estimated Time: 6hrs | Actual Time: 
 
 - https://www.robinwieruch.de/react-hook-scroll-direction/ (detect scroll)
+
+- Ran into issues having photos in public folder when deploying to github and had to refactor... don't use method again 

@@ -1,7 +1,7 @@
 {
   "name": "loopstudios-lp",
   "version": "0.1.0",
-  "homepage": "https://livinglifemeaning.github.io/LoopstudiosLP",
+  "homepage": "https://livinglifemeaning.github.io/LoopstudiosLP/",
   "private": true,
   "dependencies": {
     "@bit/livinglifemeaning.reusable-components.footer": "file:./src/components/Footer",

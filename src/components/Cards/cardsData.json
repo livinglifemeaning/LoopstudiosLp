@@ -1,42 +1,53 @@
 [
   {
     "title": "Deep Earth",
-    "photoDesktop": "./assets/desktop/image-deep-earth.jpg",
-    "photoMobile": "./assets/mobile/image-deep-earth.jpg"
+    "photoDesktop": "EarthDesktop",
+    "photoMobile": "EarthMobile", 
+    "id": 1
   },
   {
     "title": "Night Arcade",
-    "photoDesktop": "./assets/desktop/image-night-arcade.jpg",
-    "photoMobile": "./assets/mobile/image-night-arcade.jpg"
+    "photoDesktop": "ArcadeDesktop",
+    "photoMobile": "ArcadeMobile"
+    , 
+    "id": 2
   },
   {
     "title": "Soccer team VR",
-    "photoDesktop": "./assets/desktop/image-soccer-team.jpg",
-    "photoMobile": "./assets/mobile/image-soccer-team.jpg"
+    "photoDesktop": "SoccerDesktop",
+    "photoMobile": "SoccerMobile"
+    , 
+    "id": 3
   },
   {
     "title": "The grid",
-    "photoDesktop": "./assets/desktop/image-grid.jpg",
-    "photoMobile": "./assets/mobile/image-grid.jpg"
+    "photoDesktop": "GridDesktop",
+    "photoMobile": "GridMobile"
+    , 
+    "id": 4
   },
   {
     "title": "From up above VR",
-    "photoDesktop": "./assets/desktop/image-from-above.jpg",
-    "photoMobile": "./assets/mobile/image-from-above.jpg"
+    "photoDesktop": "VRDesktop",
+    "photoMobile": "VRMobile", 
+    "id": 5
   },
   {
     "title": "Pocket Borealis",
-    "photoDesktop": "./assets/desktop/image-pocket-borealis.jpg",
-    "photoMobile": "./assets/mobile/image-pocket-borealis.jpg"
+    "photoDesktop": "BorealisDesktop",
+    "photoMobile": "BorealisMobile", 
+    "id": 6
   },
   {
     "title": "The curiosity",
-    "photoDesktop": "./assets/desktop/image-curiosity.jpg",
-    "photoMobile": "./assets/mobile/image-curiosity.jpg"
+    "photoDesktop": "CuriosityDesktop",
+    "photoMobile": "CuriosityMobile", 
+    "id": 7
   },
   {
     "title": "Make it fisheye",
-    "photoDesktop": "./assets/desktop/image-fisheye.jpg",
-    "photoMobile": "./assets/mobile/image-fisheye.jpg"
+    "photoDesktop": "FisheyeDesktop",
+    "photoMobile": "FisheyeMobile", 
+    "id": 8
   }
 ]
