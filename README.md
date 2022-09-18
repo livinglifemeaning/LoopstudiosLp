@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/livinglifemeaning/LoopstudiosLp/tree/master
+- Live Site URL: https://livinglifemeaning.github.io/LoopstudiosLp/
 
 
 ### Built with
@@ -27,8 +27,11 @@ Users should be able to:
 
 
 ### Notes
-Estimated Time: 6hrs | Actual Time: 
+Estimated Time: 6hrs | Actual Time: 7hrs
 
 - https://www.robinwieruch.de/react-hook-scroll-direction/ (detect scroll)
+<<<<<<< HEAD
 
 - Ran into issues having photos in public folder when deploying to github and had to refactor... don't use method again 
+=======
+>>>>>>> f4715ab176b21b40f5bc150bdbbeae6be86d1af0
