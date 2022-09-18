@@ -1,0 +1,12 @@
+@import "./reset.css";
+@import "./variables.css"; 
+
+body{
+    font-family: var(--f-Josefin);
+    text-transform: uppercase;
+    overflow-x: hidden;
+}
+
+.underline{
+    border-bottom: solid 2px #fff; 
+}

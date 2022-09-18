@@ -1,0 +1,58 @@
+.header{
+   position: relative; 
+   
+}
+
+.headerImg{
+    width: 100vw; 
+}
+.heading.mobile.navOpen::before{
+ background-color: black;   
+ content: ""; 
+ position: absolute; 
+ width: 100vw; 
+ height: 100vh; 
+ top: 0; 
+ left: 0; 
+}
+
+.heading{
+    width: 100%; 
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content{
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    z-index: 100; 
+    padding: var(--p-mobile); 
+}
+
+.heroText{
+    margin-top: 40%; 
+    color: var(--c-white); 
+    font-size: 2rem; 
+    border: solid 2px var(--c-white); 
+    padding: 1.5rem; 
+    line-height: 1em;
+}
+.heroText p{
+    width: 80%; 
+}
+
+@media (min-width: 750px) {
+    .heroText{
+        margin-top: 8%; 
+        max-width: 40rem; 
+        font-size: 4rem; 
+    }
+
+    .content{
+        padding: var(--p-desktop)
+    }
+}

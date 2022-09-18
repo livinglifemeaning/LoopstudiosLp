@@ -1,8 +1,16 @@
 {
   "name": "loopstudios-lp",
   "version": "0.1.0",
+  "homepage": "https://livinglifemeaning.github.io/LoopstudiosLP",
   "private": true,
   "dependencies": {
+    "@bit/livinglifemeaning.reusable-components.footer": "file:./src/components/Footer",
+    "@bit/livinglifemeaning.reusable-components.hamburger-menu": "file:./src/components/HamburgerMenu",
+    "@bit/livinglifemeaning.reusable-components.header": "file:./src/components/Header",
+    "@bit/livinglifemeaning.reusable-components.icon": "file:./src/components/Icon",
+    "@bit/livinglifemeaning.reusable-components.logo": "file:./src/components/Logo",
+    "@bit/livinglifemeaning.reusable-components.nav": "file:./src/components/Nav",
+    "@bit/livinglifemeaning.reusable-components.social-media-bar": "file:./src/components/SocialMediaBar",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,6 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +44,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
