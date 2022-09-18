@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LoopstudiosLP/static/css/main.0756dfe8.css",
+    "main.js": "/LoopstudiosLP/static/js/main.d2fa07b8.js",
+    "static/media/logo.svg": "/LoopstudiosLP/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
+    "index.html": "/LoopstudiosLP/index.html",
+    "main.0756dfe8.css.map": "/LoopstudiosLP/static/css/main.0756dfe8.css.map",
+    "main.d2fa07b8.js.map": "/LoopstudiosLP/static/js/main.d2fa07b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0756dfe8.css",
+    "static/js/main.d2fa07b8.js"
+  ]
+}
