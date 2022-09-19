@@ -20,7 +20,6 @@ const IMAGE_ARRAY_DESKTOP = [EarthDesktop, ArcadeDesktop, SoccerDesktop, GridDes
 const IMAGE_ARRAY_MOBILE = [EarthMobile, ArcadeMobile, SoccerMobile, GridMobile, VRMobile, BorealisMobile, CuriosityMobile, FisheyeMobile]
 const Cards = (props) => {
   let isDesktop = props.isDesktop;
-  console.log(isDesktop); 
   return (
     <div className={classes.cards}>
       {cardsData.map((card) => {

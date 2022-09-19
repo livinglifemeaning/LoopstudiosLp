@@ -1,15 +1,15 @@
 import React from "react";
 import Cards from "../Cards/Cards";
 import classes from "./Body.module.css";
+import VRManDesktop from "../../assets/desktop/image-interactive.jpg"; 
+import VRManMobile from "../../assets/mobile/image-interactive.jpg"; 
 const Body = (props) => {
-  let version;
-  props.isDesktop ? (version = "desktop") : (version = "mobile");
   return (
     <div className={classes.body}>
       <div className={classes.top}>
         <div className={classes.vrPic}>
           <img
-            src={`./assets/${version}/image-interactive.jpg`}
+            src={props.isDesktop ? VRManDesktop : VRManMobile}
             alt="Man wearing vr mask"
           />
         </div>
