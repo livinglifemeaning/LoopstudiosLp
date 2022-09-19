@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LoopstudiosLp/static/css/main.1a86666d.css",
+    "main.css": "/LoopstudiosLp/static/css/main.5f3b6840.css",
     "main.js": "/LoopstudiosLp/static/js/main.ae12f19d.js",
     "static/media/image-hero.jpg": "/LoopstudiosLp/static/media/image-hero.9b5aacead42e955824d3.jpg",
     "static/media/image-from-above.jpg": "/LoopstudiosLp/static/media/image-from-above.f316f3f3afc353415f71.jpg",
@@ -14,11 +14,11 @@
     "static/media/image-pocket-borealis.jpg": "/LoopstudiosLp/static/media/image-pocket-borealis.0b89db1f6a9c0e56dcfd.jpg",
     "static/media/logo.svg": "/LoopstudiosLp/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
     "index.html": "/LoopstudiosLp/index.html",
-    "main.1a86666d.css.map": "/LoopstudiosLp/static/css/main.1a86666d.css.map",
+    "main.5f3b6840.css.map": "/LoopstudiosLp/static/css/main.5f3b6840.css.map",
     "main.ae12f19d.js.map": "/LoopstudiosLp/static/js/main.ae12f19d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a86666d.css",
+    "static/css/main.5f3b6840.css",
     "static/js/main.ae12f19d.js"
   ]
 }
