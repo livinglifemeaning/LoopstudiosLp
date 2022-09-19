@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/LoopstudiosLP/static/css/main.0756dfe8.css",
-    "main.js": "/LoopstudiosLP/static/js/main.7e388e20.js",
-    "static/media/image-hero.jpg": "/LoopstudiosLP/static/media/image-hero.9b5aacead42e955824d3.jpg",
-    "static/media/image-from-above.jpg": "/LoopstudiosLP/static/media/image-from-above.f316f3f3afc353415f71.jpg",
-    "static/media/image-interactive.jpg": "/LoopstudiosLP/static/media/image-interactive.d6a3949b27bb7a0c79c6.jpg",
-    "static/media/image-curiosity.jpg": "/LoopstudiosLP/static/media/image-curiosity.7f14665a1469d012697f.jpg",
-    "static/media/image-soccer-team.jpg": "/LoopstudiosLP/static/media/image-soccer-team.18a63d8df06f1baa727f.jpg",
-    "static/media/image-night-arcade.jpg": "/LoopstudiosLP/static/media/image-night-arcade.a4f25d3b0c5db392403a.jpg",
-    "static/media/image-deep-earth.jpg": "/LoopstudiosLP/static/media/image-deep-earth.2a157951527da6e48ac5.jpg",
-    "static/media/image-grid.jpg": "/LoopstudiosLP/static/media/image-grid.a8ce4f2b638181fb6920.jpg",
-    "static/media/image-fisheye.jpg": "/LoopstudiosLP/static/media/image-fisheye.ff97b54ec44101e44215.jpg",
-    "static/media/image-pocket-borealis.jpg": "/LoopstudiosLP/static/media/image-pocket-borealis.0b89db1f6a9c0e56dcfd.jpg",
-    "static/media/logo.svg": "/LoopstudiosLP/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
-    "index.html": "/LoopstudiosLP/index.html",
-    "main.0756dfe8.css.map": "/LoopstudiosLP/static/css/main.0756dfe8.css.map",
-    "main.7e388e20.js.map": "/LoopstudiosLP/static/js/main.7e388e20.js.map"
+    "main.css": "/LoopstudiosLp/static/css/main.0756dfe8.css",
+    "main.js": "/LoopstudiosLp/static/js/main.ae12f19d.js",
+    "static/media/image-hero.jpg": "/LoopstudiosLp/static/media/image-hero.9b5aacead42e955824d3.jpg",
+    "static/media/image-from-above.jpg": "/LoopstudiosLp/static/media/image-from-above.f316f3f3afc353415f71.jpg",
+    "static/media/image-interactive.jpg": "/LoopstudiosLp/static/media/image-interactive.d6a3949b27bb7a0c79c6.jpg",
+    "static/media/image-curiosity.jpg": "/LoopstudiosLp/static/media/image-curiosity.7f14665a1469d012697f.jpg",
+    "static/media/image-soccer-team.jpg": "/LoopstudiosLp/static/media/image-soccer-team.18a63d8df06f1baa727f.jpg",
+    "static/media/image-night-arcade.jpg": "/LoopstudiosLp/static/media/image-night-arcade.a4f25d3b0c5db392403a.jpg",
+    "static/media/image-deep-earth.jpg": "/LoopstudiosLp/static/media/image-deep-earth.2a157951527da6e48ac5.jpg",
+    "static/media/image-grid.jpg": "/LoopstudiosLp/static/media/image-grid.a8ce4f2b638181fb6920.jpg",
+    "static/media/image-fisheye.jpg": "/LoopstudiosLp/static/media/image-fisheye.ff97b54ec44101e44215.jpg",
+    "static/media/image-pocket-borealis.jpg": "/LoopstudiosLp/static/media/image-pocket-borealis.0b89db1f6a9c0e56dcfd.jpg",
+    "static/media/logo.svg": "/LoopstudiosLp/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
+    "index.html": "/LoopstudiosLp/index.html",
+    "main.0756dfe8.css.map": "/LoopstudiosLp/static/css/main.0756dfe8.css.map",
+    "main.ae12f19d.js.map": "/LoopstudiosLp/static/js/main.ae12f19d.js.map"
   },
   "entrypoints": [
     "static/css/main.0756dfe8.css",
-    "static/js/main.7e388e20.js"
+    "static/js/main.ae12f19d.js"
   ]
 }
